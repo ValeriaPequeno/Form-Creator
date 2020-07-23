@@ -10,9 +10,9 @@ Em termos de criação, a aplicação possibilita o carregamento de document
 Tecnologias usadas
 
 A linguagem utilizada na aplicação foi Java. As bibliotecas utilizadas na aplicação desktop FormCreator foram:
-javafx (14.0.1) \\
-org.openjfx \\
-pdfbox (2.0.19) \\
+javafx (14.0.1) 
+org.openjfx 
+pdfbox (2.0.19) 
 org.apache.pdfbox
 commons- csv (1.8)
 org.apache.commons 
